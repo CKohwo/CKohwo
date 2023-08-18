@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CKohwo
 - 👀 I’m interested in the world of AI
 - 🌱 I’m currently learning Data science as a newbie
-- 💞️ I’m looking to enhance my knowledge bandwith  
+- 💞️ I’m looking to enhance my knowledge bandwith with the goal of acquiring new insights. 
 -  
 
 <!---
