@@ -58,4 +58,4 @@ Every line of code, every pipeline, and every model I deploy serves a singular g
 
 💼 **LinkedIn:** www.linkedin.com/in/charles-onokohwomo
 
-🧠 **Portfolio:** [Link to Your ADIP Repository or Portfolio Site] 
+🧠 **Portfolio:**  
