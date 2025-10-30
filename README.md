@@ -32,17 +32,41 @@ Every project I build is a node in that vision — from automation pipelines to 
 ---
 
 ### 🧩 Technical Stack
+**Languages: Python, SQL**
 
-**Languages:** Python, SQL
+**Data Science & ML:**
 
-**Libraries & Frameworks:** pandas, numpy, scikit-learn, matplotlib, seaborn, Prophet, Streamlit
+- Analysis & Manipulation: pandas, numpy
 
-**Domains:** Data Engineering, Machine Learning, Forecasting, Automation, Applied AI
+- Machine Learning: scikit-learn
 
-**Architectural Focus:** Modular Systems Design, Analytical Intelligence Infrastructure, Autonomous Agents
+- Forecasting: Prophet
+
+- Data Visualization: matplotlib, seaborn, plotly
+
+**Software Engineering & MLOps:**
+
+- API & Web Frameworks: FastAPI, Streamlit, Flask
+
+- Version Control: Git, GitHub
+
+- Deployment & Platforms: Render, Streamlit Cloud
+
+- Automation & Monitoring: Cron, Task Scheduling, UptimeRobot
+
+**Core Competencies (Domains):**
+
+- Data Engineering (**API Ingestion**, ETL)
+
+- Machine Learning & Forecasting
+
+- Full-Stack Data Applications
+
+- Applied AI & Automation
+
+- Analytical Intelligence Infrastructure
 
 **Future Explorations:** Cloud Architectures (AWS, GCP), Containerization, MLOps Automation
-
 ---
 
 ### 🧭 Philosophy
