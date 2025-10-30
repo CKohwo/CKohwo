@@ -66,7 +66,8 @@ Every project I build is a node in that vision — from automation pipelines to 
 
 - Analytical Intelligence Infrastructure
 
-**Future Explorations:** Cloud Architectures (AWS, GCP), Containerization, MLOps Automation
+**Future Explorations:** Cloud Architectures (AWS, GCP), Containerization, MLOps Automation**
+
 ---
 
 ### 🧭 Philosophy
