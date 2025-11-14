@@ -81,9 +81,7 @@ Every project I build is a node in that vision: automation pipelines, modular an
 - Applied AI & Automation
 
 - System thinking & Architecture design
-
-**Future Explorations:** Cloud Architectures (AWS, GCP), Containerization, MLOps Automation**
-
+ 
 ---
 
 ### 🔭 Currently Exploring
