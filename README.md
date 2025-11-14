@@ -6,7 +6,7 @@ I design and build modular data automation systems pipelines that ingest, clean,
 Today, I apply that mindset to **Data Engineering, Machine Learning, Applied AI, and Automation**, building tools and infrastructures that turn raw data into continuous, self-learning intelligence.
 I don’t just analyze data — I build the systems that make intelligence repeatable, scalable, and automatic.
  
-I’m fluent in **Python** and **SQL**, and deeply familiar with the major **data and AI libraries** that power modern analytics — from `pandas`, `numpy`, `scikit-learn`, `Prophet`, and `Streamlit`, to automation workflows using APIs and schedulers.
+I’m fluent in **Python** and **SQL**, and deeply familiar with the major **data and AI libraries** that power modern analytics from `pandas`, `numpy`, `scikit-learn`, `Prophet`, and `Streamlit`, to automation workflows using APIs and schedulers.
 My focus isn’t just to analyze data, but rather, it’s to engineer **data intelligence systems** that operate independently, learn continuously, and serve real-world contexts.
 
 ---
@@ -22,7 +22,7 @@ I’m developing a modular engineering framework that automates:
 - Analytical summaries and human-readable insights
 - Optional dashboards for exploration
 
-The first deployment of this system is the **Autonomous EdTech Analyst for Africa** — a system built to process education datasets, detect patterns, generate narratives, and support real-world decision-making.
+The first deployment of this system is the **Autonomous EdTech Analyst for Africa** — this is a system built to process education datasets, detect patterns, generate narratives, and support real-world decision-making.
 
 ADIP is my long-term foundation for industry-grade data intelligence systems applicable to FinTech, AgriTech, Logistics, and Public Policy analytics.
 
@@ -99,7 +99,7 @@ Every project I build is a node in that vision: automation pipelines, modular an
 ### 🧭 Philosophy
 
 Every line of code, every pipeline, and every model I deploy serves a singular goal:
-**To create machines that reason — so humans can focus on wisdom.**
+**To create machines that reason, so humans can focus on wisdom.**
 
 ---
 
