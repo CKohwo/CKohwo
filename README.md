@@ -1,13 +1,11 @@
-## 👋🏽 Hi, I’m Charles —  Data Scientists | Technologist | Data Systems Architect | AI Visionary
+## 👋🏽 Hi, I’m Charles — Data Engineer | Python Developer | AI Automation Builder
 
 ### 🧠 About Me
 
-I build **Analytical Intelligence Infrastructures** — modular systems that automate data reasoning, forecasting, and decision support.
-At the heart of my work lies a simple belief: *true intelligence isn’t just in models; it’s in the architecture that connects them, automates them, and lets them think autonomously.*
-
-My foundation is in **Mechanical Engineering**, which taught me the discipline of systems thinking, how to design frameworks that balance logic, precision, and scalability.
-Today, I apply that mindset to **Data Science, Artificial Intelligence, and Automation**, building tools and infrastructures that turn raw data into continuous, self-learning intelligence.
-
+I design and build modular data automation systems — pipelines that ingest, clean, structure, analyze, and forecast data with minimal human intervention. My foundation is in **Mechanical Engineering**, which taught me the discipline of systems thinking, how to design frameworks that balance logic, precision, and scalability.
+Today, I apply that mindset to **Data Engineering, Machine Learning, Applied AI, and Automation**, building tools and infrastructures that turn raw data into continuous, self-learning intelligence.
+I don’t just analyze data — I build the systems that make intelligence repeatable, scalable, and automatic.
+ 
 I’m fluent in **Python** and **SQL**, and deeply familiar with the major **data and AI libraries** that power modern analytics — from `pandas`, `numpy`, `scikit-learn`, `Prophet`, and `Streamlit`, to automation workflows using APIs and schedulers.
 My focus isn’t just to analyze data, but rather, it’s to engineer **data intelligence systems** that operate independently, learn continuously, and serve real-world contexts.
 
@@ -15,11 +13,18 @@ My focus isn’t just to analyze data, but rather, it’s to engineer **data int
 
 ### ⚙️ Current Focus
 
-🚀 **ADIP (Analytical Data Intelligence Platform)** — A modular intelligence infrastructure designed to automate data ingestion, analysis, forecasting, and human readable summarization across multiple sectors.
+🚀 **ADIP (Automated Data Intelligence Platform)** — 
+I’m developing a modular engineering framework that automates:
 
-The first deployment of this system is the **Autonomous EdTech Analyst for Africa** — an AI-driven agent capable of ingesting educational data, generating insights, and producing adaptive reports without manual input.
+- Data ingestion (APIs, scrapers, batch feeds)
+- ETL processing
+- Forecasting models
+- Analytical summaries and human-readable insights
+- Optional dashboards for exploration
 
-This project focuses on architecting the backbone of autonomous analytical systems that can scale across industries like **FinTech, AgriTech, and Public Policy Analytics**.
+The first deployment of this system is the **Autonomous EdTech Analyst for Africa** — a system built to process education datasets, detect patterns, generate narratives, and support real-world decision-making.
+
+ADIP is my long-term foundation for industry-grade data intelligence systems applicable to FinTech, AgriTech, Logistics, and Public Policy analytics.
 
 ---
 
@@ -27,36 +32,45 @@ This project focuses on architecting the backbone of autonomous analytical syste
 
 I’m driven by a long-term vision to build **Africa’s Analytical Intelligence Infrastructure** — scalable systems that democratize access to intelligence, improve data driven decision making, and empower local innovation.
 
-Every project I build is a node in that vision — from automation pipelines to autonomous analysts — each one moving closer to a future where **AI systems think in context, act with precision, and serve humanity’s progress**.
-
+Every project I build is a node in that vision: automation pipelines, modular analysts, forecasting engines, and intelligence frameworks designed for reliability in low-resource environments.
 ---
 
 ### 🧩 Technical Stack
-**Languages: Python, SQL**
+**Languages**
+- Python
+- SQL
 
-**Data Science & ML:**
+**Data Engineering & Automation**
+- pandas, numpy
+- ETL pipelines
+- API integration
+- Web scraping
+- Scheduling: Cron, GitHub Actions, Render
+- Uptime Monitoring
 
-- Analysis & Manipulation: pandas, numpy
+**Machine Learning & Forecasting**
+- scikit-learn
+- Prophet
+- Feature engineering
+- Model evaluation
 
-- Machine Learning: scikit-learn
+**Visualization & Data Apps**
+- matplotlib, seaborn, plotly
+- Streamlit
+- FastAPI / Flask
 
-- Forecasting: Prophet
+**Software Engineering**
+- Git & GitHub
+- Modular code design
+- Environment & dependency management
+- Deployment workflows (Render, Streamlit Cloud)
 
-- Data Visualization: matplotlib, seaborn, plotly
 
-**Software Engineering & MLOps:**
+###🧭 Core Competencies (Domains): 
 
-- API & Web Frameworks: FastAPI, Streamlit, Flask
-
-- Version Control: Git, GitHub
-
-- Deployment & Platforms: Render, Streamlit Cloud
-
-- Automation & Monitoring: Cron, Task Scheduling, UptimeRobot
-
-**Core Competencies (Domains):**
-
-- Data Engineering (**API Ingestion**, ETL)
+- Data Engineering
+  
+- Automated ETL Pipelines
 
 - Machine Learning & Forecasting
 
@@ -64,12 +78,23 @@ Every project I build is a node in that vision — from automation pipelines to 
 
 - Applied AI & Automation
 
-- Analytical Intelligence Infrastructure
+- System thinking & Architecture design
 
 **Future Explorations:** Cloud Architectures (AWS, GCP), Containerization, MLOps Automation**
 
 ---
 
+### 🔭 Currently Exploring
+
+- Cloud Architectures (AWS, GCP)
+
+- Containerization (Docker)
+
+- CI/CD for data systems
+
+- MLOps automation
+
+-----
 ### 🧭 Philosophy
 
 Every line of code, every pipeline, and every model I deploy serves a singular goal:
@@ -83,4 +108,4 @@ Every line of code, every pipeline, and every model I deploy serves a singular g
 
 💼 **LinkedIn:** www.linkedin.com/in/charles-onokohwomo
 
-🧠 **Portfolio:**  
+🧠 **Portfolio:** Coming soon through ADIP and related projects  
