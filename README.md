@@ -2,7 +2,7 @@
 
 ### 🧠 About Me
 
-I design and build modular data automation systems — pipelines that ingest, clean, structure, analyze, and forecast data with minimal human intervention. My foundation is in **Mechanical Engineering**, which taught me the discipline of systems thinking, how to design frameworks that balance logic, precision, and scalability.
+I design and build modular data automation systems pipelines that ingest, clean, structure, analyze, and forecast data with minimal human intervention. My foundation is in **Mechanical Engineering**, which taught me the discipline of systems thinking, how to design frameworks that balance logic, precision, and scalability.
 Today, I apply that mindset to **Data Engineering, Machine Learning, Applied AI, and Automation**, building tools and infrastructures that turn raw data into continuous, self-learning intelligence.
 I don’t just analyze data — I build the systems that make intelligence repeatable, scalable, and automatic.
  
@@ -31,11 +31,12 @@ ADIP is my long-term foundation for industry-grade data intelligence systems app
 ### 🌍 Mission
 
 I’m driven by a long-term vision to build **Africa’s Analytical Intelligence Infrastructure** — scalable systems that democratize access to intelligence, improve data driven decision making, and empower local innovation.
-
 Every project I build is a node in that vision: automation pipelines, modular analysts, forecasting engines, and intelligence frameworks designed for reliability in low-resource environments.
+
 ---
 
 ### 🧩 Technical Stack
+
 **Languages**
 - Python
 - SQL
@@ -65,8 +66,9 @@ Every project I build is a node in that vision: automation pipelines, modular an
 - Environment & dependency management
 - Deployment workflows (Render, Streamlit Cloud)
 
+------
 
-###🧭 Core Competencies (Domains): 
+### 🧭 Core Competencies (Domains): 
 
 - Data Engineering
   
@@ -95,6 +97,7 @@ Every project I build is a node in that vision: automation pipelines, modular an
 - MLOps automation
 
 -----
+
 ### 🧭 Philosophy
 
 Every line of code, every pipeline, and every model I deploy serves a singular goal:
