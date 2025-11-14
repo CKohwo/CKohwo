@@ -4,7 +4,7 @@
 
 I design and build modular data automation systems pipelines that ingest, clean, structure, analyze, and forecast data with minimal human intervention. My foundation is in **Mechanical Engineering**, which taught me the discipline of systems thinking, how to design frameworks that balance logic, precision, and scalability.
 Today, I apply that mindset to **Data Engineering, Machine Learning, Applied AI, and Automation**, building tools and infrastructures that turn raw data into continuous, self-learning intelligence.
-I don’t just analyze data — I build the systems that make intelligence repeatable, scalable, and automatic.
+I don’t just analyze data. I build the systems that make intelligence repeatable, scalable, and automatic.
  
 I’m fluent in **Python** and **SQL**, and deeply familiar with the major **data and AI libraries** that power modern analytics from `pandas`, `numpy`, `scikit-learn`, `Prophet`, and `Streamlit`, to automation workflows using APIs and schedulers.
 My focus isn’t just to analyze data, but rather, it’s to engineer **data intelligence systems** that operate independently, learn continuously, and serve real-world contexts.
@@ -13,7 +13,8 @@ My focus isn’t just to analyze data, but rather, it’s to engineer **data int
 
 ### ⚙️ Current Focus
 
-🚀 **ADIP (Automated Data Intelligence Platform)** — 
+🚀 **ADIP (Automated Data Intelligence Platform)** 
+
 I’m developing a modular engineering framework that automates:
 
 - Data ingestion (APIs, scrapers, batch feeds)
