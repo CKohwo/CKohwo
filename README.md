@@ -7,7 +7,7 @@ Today, I apply that mindset to **Data Engineering, Machine Learning, Applied AI,
 I don’t just analyze data. I build the systems that make intelligence repeatable, scalable, and automatic.
  
 I’m fluent in **Python** and **SQL**, and deeply familiar with the major **data and AI libraries** that power modern analytics from `pandas`, `numpy`, `scikit-learn`, `Prophet`, and `Streamlit`, to automation workflows using APIs and schedulers.
-My focus isn’t just to analyze data, but rather, it’s to engineer **data intelligence systems** that operate independently, learn continuously, and serve real-world contexts.
+My focus is engineering **data intelligence systems** that operate independently, learn continuously, and serve real-world contexts.
 
 ---
 
