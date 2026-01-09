@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I’m Charles — Data Engineer | Python Developer | AI Automation Builder
+## 👋🏽 Hi, I’m Charles — Data Engineer | Python Developer | AI System Architect
 
 ### 🧠 About Me
 
