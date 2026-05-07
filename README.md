@@ -23,19 +23,10 @@ I’m developing a modular engineering framework that automates:
 - Analytical summaries and human-readable insights
 - Optional dashboards for exploration
 
-The first deployment of this system is the **Autonomous EdTech Analyst for Africa** — this is a system built to process education datasets, detect patterns, generate narratives, and support real-world decision-making.
-
 ADIP is my long-term foundation for industry-grade data intelligence systems applicable to FinTech, AgriTech, Logistics, and Public Policy analytics.
 
 ---
-
-### 🌍 Mission
-
-I’m driven by a long-term vision to build **Africa’s Analytical Intelligence Infrastructure** — scalable systems that democratize access to intelligence, improve data driven decision making, and empower local innovation.
-Every project I build is a node in that vision: automation pipelines, modular analysts, forecasting engines, and intelligence frameworks designed for reliability in low-resource environments.
-
----
-
+ 
 ### 🧩 Technical Stack
 
 **Languages**
@@ -43,6 +34,7 @@ Every project I build is a node in that vision: automation pipelines, modular an
 - SQL
 
 **Data Engineering & Automation**
+- FastAPI 
 - pandas, numpy
 - ETL pipelines
 - API integration
@@ -58,8 +50,7 @@ Every project I build is a node in that vision: automation pipelines, modular an
 
 **Visualization & Data Apps**
 - matplotlib, seaborn, plotly
-- Streamlit
-- FastAPI / Flask
+- Streamlit  
 
 **Software Engineering**
 - Git & GitHub
@@ -89,20 +80,15 @@ Every project I build is a node in that vision: automation pipelines, modular an
 
 - Cloud Architectures (AWS, GCP)
 
+- PyTorch Library
+
 - Containerization (Docker)
 
 - CI/CD for data systems
 
 - MLOps automation
 
------
-
-### 🧭 Philosophy
-
-Every line of code, every pipeline, and every model I deploy serves a singular goal:
-**To create machines that reason, so humans can focus on wisdom.**
-
----
+------
 
 ### 📬 Connect
 
