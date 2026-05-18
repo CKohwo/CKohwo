@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I’m Charles — Python Backend Engineer | ML Infrastructure | Building autonomous data-to-intelligence pipelines.
+## 👋🏽 Hi, I’m Charles — Python Backend Engineer | Data System Engineer | Building autonomous data-to-intelligence pipelines.
 
 ### 🧠 About Me
 
