@@ -8,7 +8,7 @@ My work focuses on the engineering path from **raw information to reliable softw
 
 **Ingestion → Processing → Storage → Intelligence → Serving**
 
-I’m particularly interested in the systems behind intelligent applications—how information is structured, retrieved, evaluated, and exposed through dependable backend infrastructure.
+I’m particularly interested in the systems behind intelligent applications. How information is structured, retrieved, evaluated, and exposed through dependable backend infrastructure.
 
 My background is in **Mechanical Engineering**, which strongly influences how I approach software: I think in terms of **systems, architecture, interfaces, constraints, data flow, failure modes, and measurable behavior**.
 
