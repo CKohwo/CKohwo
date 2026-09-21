@@ -1,99 +1,194 @@
-## 👋🏽 Hi, I’m Charles — Python Backend Engineer | Data System Engineer | Building autonomous data-to-intelligence pipelines.
+# 👋🏽 Hi, I’m Charles
 
-### 🧠 About Me
+### **Python Engineer | Data & Backend Systems | Applied AI Infrastructure**
 
-I design and build modular data automation systems pipelines that ingest, clean, structure, analyze, and forecast data with minimal human intervention. My foundation is in **Mechanical Engineering**, which taught me the discipline of systems thinking, how to design frameworks that balance logic, precision, and scalability.
-Today, I apply that mindset to **Data Engineering, Machine Learning, Applied AI, and Automation**, building tools and infrastructures that turn raw data into continuous, self-learning intelligence.
-I don’t just analyze data. I build the systems that make intelligence repeatable, scalable, and automatic.
- 
-I’m fluent in **Python** and **SQL**, and deeply familiar with the major **data and AI libraries** that power modern analytics from `pandas`, `numpy`, `scikit-learn`, `Prophet`, and `Streamlit`, to automation workflows using APIs and schedulers.
-My focus is engineering **data intelligence systems** that operate independently, learn continuously, and serve real-world contexts.
+I build **Python-based data, backend, and intelligent information systems**.
+
+My work focuses on the engineering path from **raw information to reliable software capabilities**:
+
+**Ingestion → Processing → Storage → Intelligence → Serving**
+
+I’m particularly interested in the systems behind intelligent applications—how information is structured, retrieved, evaluated, and exposed through dependable backend infrastructure.
+
+My background is in **Mechanical Engineering**, which strongly influences how I approach software: I think in terms of **systems, architecture, interfaces, constraints, data flow, failure modes, and measurable behavior**.
+
+---
+
+## 🔧 What I Build
+
+My projects span multiple layers of a modern data and AI system:
+
+* Data ingestion from APIs, files, and external sources
+* ETL and data transformation pipelines
+* Python analytics and machine-learning workflows
+* Backend APIs and application services
+* Automated data-processing workflows
+* Database-backed systems
+* Information retrieval and search pipelines
+* Evaluation and observability of system behavior
+
+I’m especially interested in the point where **data engineering, backend engineering, and AI systems meet**.
 
 ---
 
-### ⚙️ Current Focus
+## 🚀 Selected Projects
 
-🚀 **ADIP (Automated Data Intelligence Platform)** 
+### **ADIP — Automated Data Intelligence Platform**
 
-I’m developing a modular engineering framework that automates:
+**Completed**
 
-- Data ingestion (APIs, scrapers, batch feeds)
-- ETL processing
-- Forecasting models
-- Analytical summaries and human-readable insights
-- Optional dashboards for exploration
+An end-to-end data intelligence platform built to automate the movement from external data sources to analytics, forecasting, insights, and application serving.
 
-ADIP is my long-term foundation for industry-grade data intelligence systems applicable to FinTech, AgriTech, Logistics, and Public Policy analytics.
+**System flow:**
+
+`External Sources → Ingestion → Processing → Intelligence → API → Application`
+
+**Engineering areas:**
+
+* API integration
+* Web scraping
+* Automated ingestion
+* ETL and data transformation
+* Python analytics
+* Forecasting and machine learning
+* FastAPI
+* Automated workflows
+* Application serving
+* Deployment and monitoring
+
+ADIP established my foundation in **building and integrating a complete data system across multiple technical layers**.
 
 ---
- 
-### 🧩 Technical Stack
 
-**Languages**
-- Python
-- SQL
+### **RIE — Retrieval Intelligence Engine**
 
-**Data Engineering & Automation**
-- FastAPI 
-- pandas, numpy
-- ETL pipelines
-- API integration
-- Web scraping
-- Scheduling: Cron, GitHub Actions, Render
-- Uptime Monitoring
+**Current**
 
-**Machine Learning & Forecasting**
-- scikit-learn
-- Prophet
-- Feature engineering
-- Model evaluation
+A backend-focused retrieval system designed to explore the infrastructure beneath intelligent information applications.
 
-**Visualization & Data Apps**
-- matplotlib, seaborn, plotly
-- Streamlit  
+**Core pipeline:**
 
-**Software Engineering**
-- Git & GitHub
-- Modular code design
-- Environment & dependency management
-- Deployment workflows (Render, Streamlit Cloud)
+`Document Ingestion → Chunking → Storage → Hybrid Retrieval → Reranking → Evaluation → Context Construction → Optional Generation`
 
-------
+**Engineering areas:**
 
-### 🧭 Core Competencies (Domains): 
+* Python backend development
+* FastAPI
+* PostgreSQL / SQL
+* SQLAlchemy
+* Alembic
+* Redis
+* Docker
+* Lexical and semantic retrieval
+* Embeddings and vector search
+* Reranking
+* Retrieval evaluation
+* Background processing
+* Testing
+* Observability
 
-- Data Engineering
-  
-- Automated ETL Pipelines
+A key design principle is separating **retrieval quality, ranking quality, context construction, and answer generation** so that system behavior can be measured and debugged independently.
 
-- Machine Learning & Forecasting
+RIE is the next step in my progression from broad data-system construction toward deeper **backend, database, retrieval, and AI infrastructure engineering**.
 
-- Full-Stack Data Applications
-
-- Applied AI & Automation
-
-- System thinking & Architecture design
- 
 ---
 
-### 🔭 Currently Exploring
+## ⚙️ Technical Stack
 
-- Cloud Architectures (AWS, GCP)
+### **Languages**
 
-- PyTorch Library
+`Python` · `SQL` · `JavaScript` · `HTML` · `CSS`
 
-- Containerization (Docker)
+### **Backend**
 
-- CI/CD for data systems
+`FastAPI` · REST APIs · Async Python · Modular application design
 
-- MLOps automation
+### **Data Engineering**
 
-------
+`pandas` · `NumPy` · ETL · Data transformation · API integration · Web scraping · Automation
 
-### 📬 Connect
+### **Databases & Infrastructure**
 
-📧 **Email:** charleskohwo@gmail.com
+`PostgreSQL` · `SQLAlchemy` · `Alembic` · `Redis` · `Docker`
 
-💼 **LinkedIn:** www.linkedin.com/in/charles-onokohwomo
+### **Machine Learning**
 
-🧠 **Portfolio:** Coming soon through ADIP and related projects  
+`scikit-learn` · `Prophet` · Feature engineering · Forecasting · Model evaluation
+
+### **AI & Information Retrieval**
+
+Information Retrieval · Hybrid Search · Semantic Search · Embeddings · Vector Retrieval · Reranking · RAG Architecture · Retrieval Evaluation
+
+### **Development & Delivery**
+
+`Git` · `GitHub` · `GitHub Actions` · Environment & dependency management · Deployment · Monitoring
+
+### **Applications & Visualization**
+
+`Streamlit` · `Matplotlib` · `Plotly`
+
+---
+
+## 🧩 Core Engineering Areas
+
+**Backend Engineering**
+Python services, APIs, application structure, and system boundaries.
+
+**Data Engineering**
+Ingestion, transformation, automation, and analytical data workflows.
+
+**Database Systems**
+Relational data modeling, SQL, and database-backed applications.
+
+**Machine Learning & Analytics**
+Forecasting, feature engineering, model evaluation, and analytical pipelines.
+
+**Information Retrieval & AI Systems**
+Search, semantic retrieval, embeddings, reranking, evaluation, and RAG-oriented architectures.
+
+**Systems Engineering**
+Architecture, integration, observability, testing, reliability, and maintainability.
+
+---
+
+## 🧠 Engineering Approach
+
+I want to understand:
+
+**Architecture → Data Flow → Interfaces → Failure Modes → Evaluation → Trade-offs**
+
+That means treating **traceability, evaluation, reliability, and maintainability** as part of the engineering itself.
+
+I prefer building systems where individual components can be understood, tested, measured, and improved independently.
+
+---
+
+## 🧭 Current Direction
+
+My engineering trajectory is converging on:
+
+### **Backend Engineering + Data Systems + AI Infrastructure**
+
+I’m developing deeper capability in:
+
+* Advanced Python
+* Algorithms and data structures
+* PostgreSQL and SQL
+* Backend architecture
+* Retrieval systems
+* Embeddings and vector systems
+* Ranking and evaluation
+* Asynchronous processing
+* Automated testing
+* Observability
+* Docker and CI/CD
+
+The objective is to become increasingly capable of designing **robust intelligent software systems from the underlying data and backend layers upward**.
+
+---
+
+## 📬 Connect
+
+📧 **Email:** [charleskohwo@gmail.com](mailto:charleskohwo@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/charles-onokohwomo](https://linkedin.com/in/charles-onokohwomo)
